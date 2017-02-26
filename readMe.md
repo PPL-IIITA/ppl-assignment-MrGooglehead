@@ -27,6 +27,7 @@ To View Couples formed:
 	Open couple.txt
 
 For question 2,
+	Type ./a.out
 	Enter the value of k as input.
 	Output will be printed on the terminal
 
