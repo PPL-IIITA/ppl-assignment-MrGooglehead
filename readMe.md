@@ -27,8 +27,9 @@ To View Couples formed:
 	Open couple.txt
 
 For question 2,
+	Enter the value of k as input.
 	Output will be printed on the terminal
 
 To view Documentation:
-	Go to documentation/html/index.html
-Class diagram is given as "class_diagram_ppl.pdf"
+	Go to documentation/html/index.html.
+Class diagram is given as "class_diagram_ppl.pdf".
