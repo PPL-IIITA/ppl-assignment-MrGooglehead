@@ -16,9 +16,13 @@ Step 1: To create Library
 	-> ar rvs lib_ppl *.o 
 
 Step 3: To get the output of 1st question
-	g++ ques1.cpp lib_ppl
-	To get the output of @nd question
-	g++ ques2.cpp lib_ppl
+	g++ ques1.cpp lib_ppl,
+	./a.out
+	Open couple.txt.
+	To get the output of 2nd question
+	g++ ques2.cpp lib_ppl,
+	Enter k,
+	output will be printed on screen.
 
 To see Outputs:
 
@@ -27,8 +31,6 @@ To View Couples formed:
 	Open couple.txt
 
 For question 2,
-	Type ./a.out
-	Enter the value of k as input.
 	Output will be printed on the terminal
 
 To view Documentation:
