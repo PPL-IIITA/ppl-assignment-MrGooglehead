@@ -1,0 +1,189 @@
+k happiest couples:-
+35 16
+25 30
+10 39
+29 40
+22 61
+k most compatible couples:-
+12 4
+17 15
+39 7
+19 19
+20 5
+Gift exchange details:-
+ 3 13 0 
+luxury gifts are 0 
+utility gifts are 49 83 87 96 0 
+Couple 44 3
+essential gifts are 3 13 51 
+luxury gifts are 18 12 
+utility gifts are 49 83 87 96 
+Couple 12 4
+essential gifts are 3 13 51 0 0 
+luxury gifts are 18 0 
+utility gifts are 49 83 87 96 0 0 
+Couple 20 5
+essential gifts are 3 13 51 
+luxury gifts are 18 12 
+utility gifts are 49 83 87 96 
+Couple 45 6
+essential gifts are 3 13 51 
+luxury gifts are 18 
+utility gifts are 49 83 87 96 
+Couple 39 7
+essential gifts are 3 13 51 
+luxury gifts are 18 12 
+utility gifts are 49 83 87 96 
+Couple 24 8
+essential gifts are 3 13 51 
+luxury gifts are 18 
+utility gifts are 49 83 87 96 
+Couple 43 9
+essential gifts are 3 13 
+utility gifts are 49 83 87 96 
+Couple 41 10
+essential gifts are 3 13 51 60 
+luxury gifts are 18 
+utility gifts are 49 83 87 96 53 
+Couple 23 11
+essential gifts are 3 13 51 
+luxury gifts are 18 12 
+utility gifts are 49 83 87 96 53 
+Couple 11 12
+essential gifts are 3 13 51 
+luxury gifts are 18 12 
+utility gifts are 49 83 87 96 53 
+Couple 38 13
+essential gifts are 3 13 51 0 
+luxury gifts are 18 
+utility gifts are 49 83 87 96 53 
+Couple 21 14
+essential gifts are 3 13 
+luxury gifts are 18 12 
+utility gifts are 49 83 87 96 
+Couple 17 15
+essential gifts are 3 13 
+luxury gifts are 18 
+utility gifts are 49 83 87 96 
+Couple 35 16
+essential gifts are 3 13 51 
+luxury gifts are 18 
+utility gifts are 49 83 87 96 53 
+Couple 4 17
+essential gifts are 3 13 0 0 0 
+luxury gifts are 18 
+utility gifts are 49 83 87 96 0 
+Couple 33 18
+essential gifts are 3 13 
+luxury gifts are 0 
+utility gifts are 49 83 87 96 
+Couple 19 19
+essential gifts are 3 13 0 0 0 
+luxury gifts are 0 
+utility gifts are 49 83 87 96 0 
+Couple 16 20
+essential gifts are 3 13 
+luxury gifts are 18 
+utility gifts are 49 83 87 96 
+Couple 18 21
+essential gifts are 3 13 51 60 
+luxury gifts are 18 
+utility gifts are 49 83 87 96 53 
+Couple 6 22
+essential gifts are 3 13 0 0 0 
+luxury gifts are 18 
+utility gifts are 49 83 87 96 0 
+Couple 13 23
+essential gifts are 3 13 
+luxury gifts are 18 
+utility gifts are 49 83 87 96 
+Couple 47 24
+essential gifts are 3 13 0 0 
+luxury gifts are 18 
+utility gifts are 49 83 87 96 0 
+Couple 31 25
+essential gifts are 3 13 
+luxury gifts are 18 
+utility gifts are 49 83 87 96 
+Couple 14 26
+essential gifts are 3 13 
+utility gifts are 49 83 87 96 
+Couple 40 27
+essential gifts are 3 13 51 
+luxury gifts are 18 
+utility gifts are 49 83 87 96 
+Couple 27 28
+essential gifts are 3 13 51 
+luxury gifts are 18 
+utility gifts are 49 83 87 96 53 
+Couple 36 29
+essential gifts are 3 13 0 0 
+luxury gifts are 18 
+utility gifts are 49 83 87 96 0 
+Couple 25 30
+essential gifts are 3 13 
+utility gifts are 49 83 87 96 
+Couple 3 31
+essential gifts are 3 13 
+luxury gifts are 18 
+utility gifts are 49 83 87 96 
+Couple 28 32
+essential gifts are 3 13 
+luxury gifts are 18 
+utility gifts are 49 83 87 96 
+Couple 34 33
+essential gifts are 3 13 0 
+luxury gifts are 0 
+utility gifts are 49 83 87 96 
+Couple 7 34
+essential gifts are 3 13 51 60 
+luxury gifts are 18 
+utility gifts are 49 83 87 96 53 
+Couple 15 35
+essential gifts are 3 13 51 
+luxury gifts are 18 
+utility gifts are 49 83 87 96 53 
+Couple 5 36
+essential gifts are 3 13 51 
+luxury gifts are 18 
+utility gifts are 49 83 87 96 
+Couple 2 37
+essential gifts are 3 13 51 60 
+luxury gifts are 18 
+utility gifts are 49 83 87 96 53 
+Couple 10 39
+essential gifts are 3 13 
+utility gifts are 49 83 87 96 
+Couple 29 40
+essential gifts are 3 13 51 
+luxury gifts are 18 
+utility gifts are 49 83 87 96 
+Couple 37 41
+essential gifts are 3 13 
+luxury gifts are 18 
+utility gifts are 49 83 87 96 
+Couple 32 44
+essential gifts are 3 13 
+utility gifts are 49 83 87 96 
+Couple 9 45
+essential gifts are 3 13 
+utility gifts are 49 83 87 96 
+Couple 8 57
+essential gifts are 3 
+utility gifts are 49 83 87 96 
+Couple 30 58
+essential gifts are 3 13 
+utility gifts are 49 83 87 96 
+Couple 22 61
+essential gifts are 3 13 
+luxury gifts are 18 
+utility gifts are 49 83 87 96 
+Couple 1 63
+essential gifts are 3 13 
+utility gifts are 49 83 87 96 
+Couple 26 65
+essential gifts are 3 13 
+utility gifts are 49 83 87 96 
+Couple 42 80
+essential gifts are 3 13 
+utility gifts are 49 83 87 96 
