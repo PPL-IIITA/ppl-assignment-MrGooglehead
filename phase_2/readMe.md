@@ -58,4 +58,4 @@ To view Documentation:
 	Go to documentation/html/index.html
 
 
-Class diagram is given as "class_diagram_ppl_phase2.pdf"
+Class diagram is given as "class_diagram_ppl_phase2.jpg"
