@@ -7,7 +7,9 @@ IIT2015119
 
 Section - B
 
-Step 1: To create Library
+Step 1: 
+	
+	To create Library
 	Run:
 	-> gcc -c Couple.cpp
 	-> gcc -c Generate.cpp
@@ -15,7 +17,9 @@ Step 1: To create Library
 	-> gcc -c Criteria.cpp
 	-> ar rvs lib_ppl *.o 
 
-Step 3: To get the output of 1st question
+Step 2:
+	
+	To get the output of 1st question
 	g++ ques1.cpp lib_ppl,
 	./a.out
 	Open couple.txt.
@@ -27,14 +31,18 @@ Step 3: To get the output of 1st question
 To see Outputs:
 
 For question 1,
-To View Couples formed:
+	
+	To View Couples formed:
 	Open couple.txt
 
 For question 2,
+	
 	Output will be printed on the terminal
 
 To view Documentation:
+	
 	Go to documentation/html/index.html.
+
 Class diagram is given as "class_diagram_ppl.pdf".
 
 
@@ -43,7 +51,9 @@ Phase 2:-
 Open folder phase_2
 Open Terminal in this folder
 
-Step 1:To create library
+Step 1:
+
+	To create library
 	Run:-
 	->g++ -c array.cpp
 	->g++ -c binarray.cpp
@@ -55,7 +65,10 @@ Step 1:To create library
 	->g++ -c hash.cpp
 	->g++ -c Initialize.cpp
 	-> ar rvs lib_ppl *.o 
-Step 2: To get the output of 3rd question:-
+	
+Step 2: 
+
+	To get the output of 3rd question:-
 	g++ ques3.cpp lib_ppl
 	./a.out
 	Output will be printed on the terminal.
@@ -76,6 +89,7 @@ Step 2: To get the output of 3rd question:-
 	Output will be printed on the terminal.
 
 To view Documentation:
+
 	Go to documentation/html/index.html
 
 Class diagram is given as "class_diagram_ppl_phase2.pdf"
