@@ -55,22 +55,25 @@ Step 1:To create library
 	->g++ -c hash.cpp
 	->g++ -c Initialize.cpp
 	-> ar rvs lib_ppl *.o 
-Step 2: To get the output of 3rd question
+Step 2: To get the output of 3rd question:-
 	g++ ques3.cpp lib_ppl
 	./a.out
-	Output will be printed on the terminal
-	To get the output of 4th question
+	Output will be printed on the terminal.
+	
+	To get the output of 4th question:-
 	g++ ques4.cpp lib_ppl
 	./a.out
-	Output will be printed on the terminal
-	To get the output of 6th question
+	Output will be printed on the terminal.
+	
+	To get the output of 6th question:-
 	g++ ques6.cpp lib_ppl
 	./a.out
-	Output will be printed on the terminal
-	To get the output of 7th question
+	Output will be printed on the terminal.
+	
+	To get the output of 7th question:-
 	g++ ques7.cpp lib_ppl
 	./a.out
-	Output will be printed on the terminal
+	Output will be printed on the terminal.
 
 To view Documentation:
 	Go to documentation/html/index.html
