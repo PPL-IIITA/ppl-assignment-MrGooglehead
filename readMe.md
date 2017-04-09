@@ -53,6 +53,7 @@ Phase 2:-
 
 
 Open folder phase_2
+
 Open Terminal in this folder
 
 Step 1:
