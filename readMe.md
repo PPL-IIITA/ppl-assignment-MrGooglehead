@@ -7,6 +7,8 @@ IIT2015119
 
 Section - B
 
+Phase 1:-
+
 Step 1: 
 	
 	To create Library
@@ -46,7 +48,9 @@ To view Documentation:
 Class diagram is given as "class_diagram_ppl.pdf".
 
 
+
 Phase 2:-
+
 
 Open folder phase_2
 Open Terminal in this folder
