@@ -1,0 +1,34 @@
+\hypertarget{classarray}{}\section{array Class Reference}
+\label{classarray}\index{array@{array}}
+
+
+class searches for gf with the help of array/linked list  
+
+
+
+
+{\ttfamily \#include $<$array.\+h$>$}
+
+
+
+Inheritance diagram for array\+:
+% FIG 0
+
+
+Collaboration diagram for array\+:
+% FIG 1
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+void {\bfseries searchgf} (\hyperlink{classBoy}{Boy} $\ast$by\mbox{[}100\mbox{]}, \hyperlink{classCouple}{Couple} c\mbox{[}100\mbox{]}, int nb, int k)\hypertarget{classarray_afcf90fb910787d60e2a8346701040a7c}{}\label{classarray_afcf90fb910787d60e2a8346701040a7c}
+
+\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+class searches for gf with the help of array/linked list 
+
+The documentation for this class was generated from the following files\+:\begin{DoxyCompactItemize}
+\item 
+array.\+h\item 
+array.\+cpp\end{DoxyCompactItemize}
